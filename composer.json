@@ -24,7 +24,7 @@
         "source": "https://github.com/EntradaPackages/TinCanPHP"
     },
     "require": {
-        "php": "~8.0.0 || ~8.1.0",
+        "php": "^7.3 || ~8.0.0 || ~8.1.0",
         "ext-openssl": "*",
         "namshi/jose": "^7.2.1",
         "willdurand/negotiation": "^3.0"
